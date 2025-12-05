@@ -4,10 +4,6 @@
 
 <img src="https://media.giphy.com/media/9OyxLUXSdfiqZrF2rH/giphy.gif" width="200"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=FF6B9D&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=EXPLOSION!+💥;Arch+Linux+%2B+Hyprland+%3D+❤️;Megumin+is+best+girl+🔥;I+use+Arch+btw+🐧" alt="Typing SVG" />
-</a>
-
 <p>
   <img src="https://komarev.com/ghpvc/?username=OppaiHacker&label=Profile%20views&color=ff6b9d&style=for-the-badge" alt="profile views"/>
   <a href="https://github.com/OppaiHacker?tab=followers">
@@ -125,12 +121,12 @@ const OppaiHacker = {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=OppaiHacker&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&ring_color=FF6B9D" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=OppaiHacker&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&ring_color=FF6B9D" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=OppaiHacker&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OppaiHacker&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D" />
+<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OppaiHacker&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=OppaiHacker&theme=radical&hide_border=true&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FFFFFF" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=OppaiHacker&custom_title=Contribution%20Graph&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FFFFFF&area=true&area_color=FF6B9D" />
 
 </div>
 
