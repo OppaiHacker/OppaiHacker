@@ -3,6 +3,7 @@
 
 
 <img src="https://media.giphy.com/media/9OyxLUXSdfiqZrF2rH/giphy.gif" width="200"/>
+<br><br>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=OppaiHacker&label=Profile%20views&color=ff6b9d&style=for-the-badge" alt="profile views"/>
@@ -21,13 +22,13 @@
 ```typescript
 const OppaiHacker = {
     alias: "Explosion Enthusiast 💥",
-    pronouns: "He/Him",
+    pronouns: "Type/Any",
     location: "Arch Linux Terminal",
     waifu: "Megumin ❤️",
     code: ["TypeScript", "JavaScript", "Python", "Go"],
     technologies: {
         frontend: {
-            framework: "Vue.js",
+            framework: "Vue",
             styling: ["TailwindCSS", "SCSS"]
         },
         backend: {
@@ -38,7 +39,7 @@ const OppaiHacker = {
         system: {
             os: "Arch Linux btw 🐧",
             wm: "Hyprland",
-            editor: "VSCode + Neovim"
+            editor: "I cant exit Vim HELP"
         }
     },
     currentMood: "THERE IS BUG IN THIS CODE!!!! anyway TYPE:ANY",
