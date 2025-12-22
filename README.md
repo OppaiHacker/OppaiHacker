@@ -59,6 +59,7 @@ const OppaiHacker = {
 <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kitty-000000?style=for-the-badge&logo=gnome-terminal&logoColor=white"/>
 
+<br>
 
 <img src="https://media.giphy.com/media/q6N8msmA8hB5EM57Rm/giphy.gif" width="250"/>
 
